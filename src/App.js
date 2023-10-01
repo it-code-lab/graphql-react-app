@@ -35,9 +35,6 @@ function DisplayBook() {
 export default function App() {
   return (
     <div>
-      <h2>
-        Book Information
-      </h2>
       <br />
       <DisplayBook />
     </div>
